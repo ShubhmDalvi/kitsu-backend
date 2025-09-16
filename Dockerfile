@@ -10,6 +10,6 @@ RUN mvn clean package -DskipTests
 # Use a lightweight OpenJDK image to reduce the final image size.
 FROM openjdk:17-jdk-slim
 WORKDIR /app
-COPY --from=build /app/target/*.jar app.jar
+COPY --from=build /target/*.jar app.jar
 EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "app.jar"]
