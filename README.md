@@ -27,12 +27,7 @@
   <i>A fast, minimal & production-friendly backend for shortening URLs — built with love using Spring Boot.</i>
 </p>
 
----
 
-## 🎬 Demo Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZpYnlwOG1rYjFzaXRnZnB5M21wMHFxYTZ6YWJmNHRvY3k1cDhoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltWyXIY/giphy.gif" width="500" alt="Demo animation"/>
-</p>
 
 ---
 
